@@ -8,7 +8,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Download the project or clone it to your Desktop. Make sure you install latest version of npm and react.js
+Download the project or clone it to your Desktop. 
+```
+Install latest version of npm and react.js
+```
 
 ### Installing
 
@@ -17,22 +20,6 @@ Download the project or clone it to your Desktop. Make sure you install latest v
 2. npm start
 3. Copy a picture link address by going to any browser
 4. Click detect and it will display face image
-```
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
 ```
 
 ## Deployment
@@ -44,6 +31,6 @@ It was deploy using https://www.netlify.com/
 * **Claudia Everett** - *Initial work* - [Facerecognition-app](https://github.com/claudiabringaseverett/facerecognition-app)
 
 ## Acknowledgments
-
++++
 *Thanks to Andrei Neagoie from Udemy.
 
